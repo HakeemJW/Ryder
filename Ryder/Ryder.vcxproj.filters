@@ -27,9 +27,15 @@
     <ClInclude Include="src\Ryder\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Ryder\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Ryder\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ryder\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

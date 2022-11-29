@@ -1,0 +1,3 @@
+[submodule "Ryder/vendor/spdlog"]
+	path = Ryder/vendor/spdlog
+	url = https://github.com/gabime/spdlog
